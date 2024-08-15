@@ -12,6 +12,6 @@
 
 <br />
 
-#### 🔗 _freeCodeCamp [Technical Documentation Page](https://www.freecodecamp.org/learn/2022/responsive-web-design/build-a-technical-documentation-page-project/build-a-technical-documentation-page)_
+#### 🔗 *freeCodeCamp [Technical Documentation Page](https://www.freecodecamp.org/learn/2022/responsive-web-design/build-a-technical-documentation-page-project/build-a-technical-documentation-page)*
 
-#### 🔗 _Finished [Technical Documentation Page](https://vinvieri.github.io/freeCodeCamp-Technical-Documentation-Page/)_
+#### 🔗 *Finished [Technical Documentation Page](https://vinvieri.github.io/freeCodeCamp-Technical-Documentation-Page/)*
